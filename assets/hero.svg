@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111018"/><stop offset="1" stop-color="#211b2e"/></linearGradient>
+ <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e0d7ff"/><stop offset="1" stop-color="#8f79d6" stop-opacity=".12"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b9a9e8" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="430" rx="8" fill="url(#bg)"/><rect width="1200" height="430" rx="8" fill="url(#grid)"/>
+<path d="M0 26H1200M0 404H1200" stroke="#bcaaf2" stroke-opacity=".55"/>
+<text x="58" y="72" fill="#bcb3d0" font-family="monospace" font-size="14" letter-spacing="4">PERSONAL INDEX / 2026</text>
+<text x="54" y="188" fill="#f4f0fb" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" letter-spacing="-4">Suryanshu</text>
+<text x="58" y="268" fill="#f4f0fb" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="700" letter-spacing="-4">Tiwari<tspan fill="#c7b8ff">.</tspan></text>
+<text x="62" y="326" fill="#c0b7d2" font-family="monospace" font-size="16" letter-spacing="2">COMPUTER SCIENCE  /  AI &amp; ML  /  SOFTWARE</text>
+<g transform="translate(920 212)" fill="none" stroke="url(#stroke)">
+ <circle r="145" stroke-width="1.5"/><circle r="112" stroke-opacity=".65"/><circle r="77" stroke-opacity=".5"/><circle r="38" stroke-opacity=".6"/>
+ <path d="M-165 0H165M0-165V165M-116-116L116 116M116-116L-116 116" stroke-opacity=".55"/>
+ <path d="M0-145L125 72L-125 72Z" stroke="#d4c9ff" stroke-opacity=".9"/>
+ <path d="M-145 0L72 125L72-125Z" stroke-opacity=".35"/>
+ <circle r="7" fill="#d9ceff" stroke="none"/><circle cy="-145" r="4" fill="#e2d9ff" stroke="none"/>
+ <circle cx="125" cy="72" r="4" fill="#e2d9ff" stroke="none"/><circle cx="-125" cy="72" r="4" fill="#e2d9ff" stroke="none"/>
+</g>
+<text x="1138" y="380" fill="#968ba9" font-family="monospace" font-size="12" text-anchor="end" letter-spacing="2">ST / 001</text>
+</svg>
