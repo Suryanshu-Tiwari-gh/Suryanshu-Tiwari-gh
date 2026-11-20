@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+<rect width="1200" height="110" rx="5" fill="#111018"/><path d="M0 1H1200M0 109H1200" stroke="#bcaaf2" stroke-opacity=".5"/>
+<path d="M25 55H1175" stroke="#bcaaf2" stroke-opacity=".15" stroke-dasharray="3 8"/>
+<circle cx="600" cy="55" r="24" stroke="#c9baff" stroke-opacity=".8"/><circle cx="600" cy="55" r="5" fill="#c9baff"/>
+<text x="55" y="61" fill="#c3bad4" font-family="monospace" font-size="12" letter-spacing="2">END OF INDEX</text>
+<text x="1145" y="61" fill="#c3bad4" font-family="monospace" font-size="12" text-anchor="end" letter-spacing="2">CONTINUED IN REPOSITORIES →</text>
+</svg>
