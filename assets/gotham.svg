@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190">
+<rect width="600" height="190" rx="6" fill="#11131b"/><path d="M0 145L60 95L92 122L145 52L188 115L230 72L280 132L330 65L370 118L425 38L470 120L520 80L600 140V190H0Z" fill="#24243a"/>
+<path d="M0 145L60 95L92 122L145 52L188 115L230 72L280 132L330 65L370 118L425 38L470 120L520 80L600 140" fill="none" stroke="#b9a5ff" stroke-opacity=".8" stroke-width="2"/>
+<circle cx="482" cy="43" r="19" fill="#d8d0ef" opacity=".9"/><path d="M463 43H501M482 24V62" stroke="#11131b" stroke-opacity=".35"/>
+<text x="28" y="35" fill="#c8baff" font-family="monospace" font-size="12" letter-spacing="3">ARCHIVE / 01</text><text x="28" y="170" fill="#e7e3f2" font-family="monospace" font-size="13" letter-spacing="2">CHARACTERS · DATA · DISCOVERY</text>
+</svg>
